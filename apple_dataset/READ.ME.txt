@@ -1,0 +1,2 @@
+SQLite document with CSV spradsheets to calculate ratings, apps, cost, and sales
+
